@@ -1,0 +1,18 @@
+box-cricket-booking/
+|-- src/
+    |-- controllers/
+        |-- authController.ts
+        |-- bookingController.ts
+    |-- models/
+        |-- User.ts
+        |-- Booking.ts
+    |-- routes/
+        |-- authRoutes.ts
+        |-- bookingRoutes.ts
+    |-- views/
+        |-- signup.html
+        |-- login.html
+        |-- booking.html
+    |-- server.ts
+|-- tsconfig.json
+|-- package.json
